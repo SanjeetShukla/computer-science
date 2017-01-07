@@ -1,9 +1,9 @@
 ### Binary, Octal and Hexadecimal numbers
 
 Formula representation of number system: 
-[image1]
+![Image here][image1]
 
-[image1]: https://github.com/SanjeetShukla/computer-science/blob/master/image002.gif?raw=true "Logo Title Text 2"
+[image1]: https://github.com/SanjeetShukla/computer-science/blob/master/image002.gif?raw=true
 
 b - numeral system base
 dn - the n-th digit
