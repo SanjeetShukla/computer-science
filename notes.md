@@ -3,7 +3,7 @@
 Formula representation of number system: 
 [image1]
 
-[image1]: https://github.com/SanjeetShukla/computer-science/blob/master/image002.gif "Logo Title Text 2"
+[image1]: https://github.com/SanjeetShukla/computer-science/blob/master/image002.gif?raw=true "Logo Title Text 2"
 
 b - numeral system base
 dn - the n-th digit
