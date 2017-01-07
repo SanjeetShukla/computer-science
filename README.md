@@ -48,9 +48,9 @@ The second link is a MOOC that will teach you learning techniques used by expert
 ## Curriculum
 
 - [Introduction to Computer Science](#introduction-to-computer-science)     **WIP**
-- [Math (Mathematical Thinking)](#math-mathematical-thinking)		
+- [Math (Mathematical Thinking)](#math-mathematical-thinking)	**Completed**	
 - [Program Design](#program-design)			**Completed**
-- [Math (Calculus & Discrete Math)](#math-calculus-and-discrete-math)
+- [Math (Calculus & Discrete Math)](#math-calculus-and-discrete-math) **WIP**
 - [Algorithms](#algorithms)
 - [Programming Paradigms](#programming-paradigms)
 - [Software Testing](#software-testing)
